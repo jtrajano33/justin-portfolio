@@ -133,7 +133,7 @@ h4{
 
 
 p{
-    font-family: 'Metrophobic', sans-serif;
+    font-family: class="portfolio"'Metrophobic', sans-serif;
     font-size: 1.4rem;
    /* line-height: 1.75;*/
    /* margin-bottom: 3.6rem;*/
@@ -311,7 +311,7 @@ p{
 	}
 	
 	.portfolio{
-		display:none;
+		visibility:hidden !important;
 	}
 
 }
