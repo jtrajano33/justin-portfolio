@@ -309,6 +309,10 @@ p{
 	.nav-link{
 		padding:20px 20px;
 	}
+	
+	.portfolio{
+		display:none;
+	}
 
 }
 
