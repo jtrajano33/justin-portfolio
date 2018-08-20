@@ -310,8 +310,9 @@ p{
 		padding:20px 20px;
 	}
 	
-	#logo.portfolio{
+	#logo{
 		visibility:hidden !important;
+		display:none;
 	}
 
 }
